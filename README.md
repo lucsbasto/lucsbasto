@@ -3,7 +3,7 @@
 ## :desktop_computer: Lucas Bastos
 
 [![Linkedin Badge](https://img.shields.io/badge/-lucsbasto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucsbasto/)](https://www.linkedin.com/in/lucsbasto/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucsbasto@gmail.com)](mailto:lucsbasto@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lucsbasto-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucsbasto@gmail.com)](mailto:lucsbasto@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5563985021531&text=Olá!)](https://api.whatsapp.com/send?phone=5563985021531&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/lucsbasto)
 <br /><br />
