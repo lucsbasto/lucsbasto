@@ -6,11 +6,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/lucsbasto)
 <br /><br />
 
-    Olá, meu nome é Lucas Bastos, Desenvolvedor Fullstack JavaScript, apaixonado pelo que eu faço. 
+    Olá, meu nome é Lucas Bastos, Desenvolvedor Fullstack JavaScript apaixonado pelo que eu faço. 
     Estudante e entusiasta da computação que ama desenvolver, ler e estudar novas tecnologias, 
     por que sempre podemos aprender algo novo.
     /
-    Hello, my name is Lucas Bastos, Fullstack JavaScript Developer, passionate about what I do. 
+    Hello, my name is Lucas Bastos, Fullstack JavaScript Developer passionate about what I do. 
     Student and computer enthusiast who loves to develop, read and study new technologies, 
     because we can always learn something new.
 
