@@ -31,6 +31,7 @@
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/lucsbasto/)](https://github.com/lucsbasto/)
 [![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&logoColor=red&link=https://github.com/lucsbasto/)](https://github.com/lucsbasto/)
+[![Jest](https://img.shields.io/badge/-jest-black?style=flat-square&logo=Redis&link=https://github.com/lucsbasto/)](https://github.com/lucsbasto/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/lucsbasto/)](https://github.com/lucsbasto/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/lucsbasto/)](https://github.com/lucsbasto/)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&link=https://github.com/lucsbasto/)](https://github.com/lucsbasto/)
