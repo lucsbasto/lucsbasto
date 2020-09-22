@@ -8,11 +8,11 @@
 
     Olá, meu nome é Lucas Bastos, sou um desenvolvedor fullstack JavaScript apaixonado pelo que eu faço. 
     Estudante e entusiasta da computação que ama desenvolver, ler, estudar e conversar sobre novas tecnologias, 
-    por que sempre podemos aprender algo novo.
+    por que ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.
     /
     Hello, my name is Lucas Bastos, i am a fullstack JavaScript developer passionate about what I do. 
     Student and computer enthusiast who loves to develop, read, study and talk about new technologies, 
-    because we can always learn something new.
+    because no one is so big that he cannot learn, nor so small that he cannot teach.
 
 <br />
 
